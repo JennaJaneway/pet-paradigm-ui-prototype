@@ -1,0 +1,10 @@
+# PowerPoint temp files
+~$*.pptx
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Optional: ignore any raw asset folders if present
+raw-assets/
+source-images/
