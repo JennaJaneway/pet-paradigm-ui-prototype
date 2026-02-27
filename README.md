@@ -1,6 +1,6 @@
 # Pet Paradigm UI Prototype
 
-This project showcases a website interface prototype created in Microsoft PowerPoint for the WGU D279 User Interface Design course.
+This project showcases a website interface prototype designed in Microsoft PowerPoint for the WGU D279 User Interface Design course.
 
 ## 📌 Overview
 The goal of this project was to design a visually consistent and user-friendly website interface for Paradigm Pet Professionals.
